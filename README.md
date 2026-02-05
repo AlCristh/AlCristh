@@ -56,14 +56,14 @@
 
 ## 🚀 Featured Project
 
-### 🔐 Member Get Member Platform  
+### 🔐 InviteFlow Platform  
 A fullstack referral system with secure invitation lifecycle.
 
 - Backend: Java + Spring Boot + Spring Security + JWT  
 - Database: PostgreSQL    
 - Dockerized environment for local setup  
 
-👉 Repository: **[Project MgM](https://github.com/AlCristh/member-get-member)**
+👉 Repository: **[Project InviteFlow](https://github.com/AlCristh/member-get-member)**
 
 ---
 
