@@ -6,8 +6,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">  
   <img width="49%" height="195px"
        src="https://raw.githubusercontent.com/AlCristh/AlCristh/main/assets/github-stats.svg"
@@ -17,6 +15,7 @@
        src="https://raw.githubusercontent.com/AlCristh/AlCristh/main/assets/top-langs.svg"
        alt="Top languages"/>
 </div>
+
 
 ---
 
