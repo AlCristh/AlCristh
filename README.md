@@ -15,11 +15,11 @@
   <a href="https://instagram.com/a.cristhh" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8A2BE2" />
   </a>
-  <a href="https://www.linkedin.com/in/cristhh" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" />
-  </a>
   <a href="mailto:a.cristhh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=8A2BE2" />
+  </a>
+    <a href="https://www.linkedin.com/in/cristhh" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" />
   </a>
 </div>
 
