@@ -39,7 +39,6 @@
 ### Backend
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=8A2BE2)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0D1117?style=for-the-badge&logo=springboot&logoColor=8A2BE2)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=8A2BE2)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=8A2BE2)&nbsp;
 
 ### Frontend
