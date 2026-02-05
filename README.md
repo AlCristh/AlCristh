@@ -54,11 +54,4 @@
 
 ---
 
-### 📚 Currently improving
-![Software Architecture](https://img.shields.io/badge/Software%20Architecture-0D1117?style=for-the-badge&logo=abstract&logoColor=8A2BE2)&nbsp;
-![Spring Security](https://img.shields.io/badge/Spring%20Security-0D1117?style=for-the-badge&logo=springsecurity&logoColor=8A2BE2)&nbsp;
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-0D1117?style=for-the-badge&logo=docker&logoColor=8A2BE2)&nbsp;
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7400be&height=120&section=footer"/>
