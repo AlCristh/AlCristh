@@ -8,13 +8,11 @@
 
 <div align="center">  
   <img width="49%" height="195px"
-       src="https://raw.githubusercontent.com/AlCristh/AlCristh/main/assets/github-stats.svg"
+       src="https://github-readme-stats.vercel.app/api?username=AlCristh&show_icons=true&hide_border=true&theme=tokyonight"
+       onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlCristh&show_icons=true&hide_border=true&theme=tokyonight';"
        alt="AlCristh github stats"/> 
-
-  <img width="41%" height="195px"
-       src="https://raw.githubusercontent.com/AlCristh/AlCristh/main/assets/top-langs.svg"
-       alt="Top languages"/>
 </div>
+
 
 
 ---
