@@ -54,4 +54,18 @@
 
 ---
 
+## 🚀 Featured Project
+
+### 🔐 Member Get Member Platform  
+A fullstack referral system with secure invitation lifecycle.
+
+- Backend: Java + Spring Boot + Spring Security + JWT  
+- Database: PostgreSQL  
+- Business flow: `CONVIDADO → CADASTRADO`  
+- Dockerized environment for local setup  
+
+👉 Repository: **[member-get-member](https://github.com/AlCristh/member-get-member)**
+
+---
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7400be&height=120&section=footer"/>
