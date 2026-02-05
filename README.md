@@ -4,19 +4,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">  
-  <img width="49%" height="195px"
-       src="https://github-readme-stats.vercel.app/api?username=AlCristh&show_icons=true&hide_border=true&theme=tokyonight"
-       onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AlCristh&show_icons=true&hide_border=true&theme=tokyonight';"
-       alt="AlCristh github stats"/> 
-</div>
-
-
-
----
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlCristh&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
