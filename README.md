@@ -1,11 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/e1e6575b-0884-4445-9302-acb2a8f303ab"
-    width="100%"
-    style="max-height: 280px; object-fit: cover; border-radius: 12px;"
-  />
-</p>
 <h1 align="center">Hey, I'm Alejandro 👋</h1>
 
 <p align="center">
@@ -47,15 +40,7 @@
 
 ## 📌 Featured Projects
 
-### 🔐 Authentication & Authorization Platform
-Secure backend system with JWT, role-based access, and invitation lifecycle.
-
-- Spring Boot + Spring Security
-- PostgreSQL persistence
-- Status flow: `CONVIDADO → CADASTRADO`
-- Dockerized environment
-
-👉 Repo: *(add link here)*
+#
 
 ---
 
