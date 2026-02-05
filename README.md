@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
- <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/e1e6575b-0884-4445-9302-acb2a8f303ab" />
+  <img src="https://github.com/user-attachments/assets/e1e6575b-0884-4445-9302-acb2a8f303ab" />
 </p>
 
 <h1 align="center">Hey, I'm Alejandro 👋</h1>
