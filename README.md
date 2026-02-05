@@ -60,11 +60,10 @@
 A fullstack referral system with secure invitation lifecycle.
 
 - Backend: Java + Spring Boot + Spring Security + JWT  
-- Database: PostgreSQL  
-- Business flow: `CONVIDADO → CADASTRADO`  
+- Database: PostgreSQL    
 - Dockerized environment for local setup  
 
-👉 Repository: **[member-get-member](https://github.com/AlCristh/member-get-member)**
+👉 Repository: **[Project MgM](https://github.com/AlCristh/member-get-member)**
 
 ---
 
