@@ -12,9 +12,13 @@
 
 ## 📊 Git stats
 
-![Stats](https://github-readme-stats-three-tawny-nd6ou42boh.vercel.app/api?username=AlCristh&show_icons=true&theme=transparent&title_color=a855f7&icon_color=9333ea&text_color=c084fc&bg_color=0d1117)
+<p align="center">
+  <img width="420" src="https://github-readme-stats-three-tawny-nd6ou42boh.vercel.app/api?username=AlCristh&show_icons=true&theme=transparent&title_color=a855f7&icon_color=9333ea&text_color=c084fc&bg_color=0d1117&hide_border=true" />
+  <img width="360" src="https://github-readme-stats-three-tawny-nd6ou42boh.vercel.app/api/top-langs/?username=AlCristh&layout=compact&theme=transparent&title_color=a855f7&text_color=c084fc&icon_color=9333ea&bg_color=0d1117&hide_border=true" />
+</p>
 
----
+
+
 ---
 
 ## 🔗 Connect with me
