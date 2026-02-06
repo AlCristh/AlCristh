@@ -5,8 +5,16 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlCristh&bg_color=0d1117&color=8A2BE2&line=8A2BE2&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlCristh&bg_color=0d1117&color=7c3aed&line=6d28d9&point=ddd6fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+---
+
+## 📊 Git stats
+
+![Stats](https://github-readme-stats-three-tawny-nd6ou42boh.vercel.app/api?username=AlCristh&show_icons=true&theme=transparent&title_color=a855f7&icon_color=9333ea&text_color=c084fc&bg_color=0d1117)
+
+---
 ---
 
 ## 🔗 Connect with me
