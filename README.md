@@ -24,7 +24,7 @@
 ## 🔗 Connect with me
 
 <div align="center">
-  <a href="https://instagram.com/a.cristhh" target="_blank" rel="noreferrer">
+  <a href="https://instagram.com/a.cristh" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8A2BE2" />
   </a>
   <a href="mailto:a.cristhh@gmail.com">
