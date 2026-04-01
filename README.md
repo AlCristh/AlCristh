@@ -78,5 +78,15 @@ A fullstack referral system with secure invitation lifecycle.
 👉 Repository: **[Project InviteFlow](https://github.com/AlCristh/member-get-member)**
 
 ---
+🔐 MOVA Platform
+
+Scalable ride-hailing backend designed with modular architecture and production-grade patterns.
+
+Java + Spring Boot + JWT Authentication
+PostgreSQL (PostGIS) + Redis
+Real-time ride lifecycle & geolocation
+Payment orchestration (PIX & Card)
+
+👉 Private system — architecture and implementation available upon request
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7400be&height=120&section=footer"/>
